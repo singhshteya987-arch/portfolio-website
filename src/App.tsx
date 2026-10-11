@@ -1,7 +1,7 @@
 import { FormEvent, ReactNode, useState } from "react";
-import codeSyncImage from "./assets/projects/codesync.png";
-import energyDashboardImage from "./assets/projects/energy-dashboard.png";
-import ticTacToeImage from "./assets/projects/tic-tac-toe.png";
+import codeSyncImage from "./assets/codesync.png";
+import energyDashboardImage from "./assets/energy-dashboard.png";
+import ticTacToeImage from "./assets/tic-tac-toe.png";
 
 type IconName =
   | "arrow"
