@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a professional portfolio for a CS student highlighting Java skills, backend projects, education, and contact info with a sleek dark blue design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
