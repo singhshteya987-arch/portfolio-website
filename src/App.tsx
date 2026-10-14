@@ -345,7 +345,7 @@ function App() {
               </p>
               <div className="hero-actions">
                 <Button href="#projects" icon="arrow">Explore My Projects</Button>
-                <Button href="https://drive.google.com/file/d/1Jhi7bKQhJ1TLQ0PbFQnwCMWx_IVKhmpO/view?usp=drivesdk" variant="secondary" icon="download" target="_blank" rel="noopener noreferrer">
+                <Button href="https://drive.google.com/file/d/1FhjwhFwi3gB8z50YnUjnw3V4RW024Q20/view?usp=drivesdk" variant="secondary" icon="download" target="_blank" rel="noopener noreferrer">
                   Download Resume
                 </Button>
               </div>
@@ -498,7 +498,7 @@ function App() {
                 <h2>Want to Know More About Me?</h2>
                 <p>Explore my resume to learn more about my technical skills, projects, and learning journey.</p>
               </div>
-              <Button href="https://drive.google.com/file/d/1Jhi7bKQhJ1TLQ0PbFQnwCMWx_IVKhmpO/view?usp=drivesdk" variant="secondary" icon="download">Download My Resume</Button>
+              <Button href="https://drive.google.com/file/d/1FhjwhFwi3gB8z50YnUjnw3V4RW024Q20/view?usp=drivesdk" variant="secondary" icon="download">Download My Resume</Button>
             </div>
           </div>
         </section>
